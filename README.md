@@ -3,7 +3,7 @@ Olá! Eu sou Victor Hugo, contador e estudante de programação.
 - 💰 Atualmente estou trabalhando como auxiliar fiscal.
 - 📖 Sou estudante do curso de DEV FULL STACK na FULLTURE com enfoque em JavaScript. 
 
-<div align="center">
+<div>
   <a href="https://github.com/VictorHugoDevs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorHugoDevs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorHugoDevs&layout=compact&langs_count=7&theme=tokyonight"/>
