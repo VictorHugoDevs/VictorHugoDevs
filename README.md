@@ -22,6 +22,6 @@ Olá! Eu sou Victor Hugo, contador e estudante de programação.
   <a href="https://www.instagram.com/victorhbigas/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/victor-hugo-silva-b58017221/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/VictorHugoDevs/VictorHugoDevs/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/VictorHugoDevs/blob/output/github-contribution-grid-snake.svg)
  
 </div>
