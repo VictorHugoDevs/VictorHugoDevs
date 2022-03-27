@@ -1,7 +1,7 @@
 Olá! Eu sou Victor Hugo, contador e estudante de programação.
 
-- 💰 Atualmente estou trabalhando como auxiliar fiscal.
-- 📖 Sou estudante front-end pela Origamid e de programação pela Alura.
+- 💰 Atualmente estou trabalhando como auxiliar fiscal na FGF Contadores.
+- 📖 Estudando front-end através da UDEMY pelo curso "Desenvolvimento Web Completo 2022 - 20 Cursos + 20 Projetos" e fazendo Engenharia de Software na UNINTER.
 
 <div align="center">
   <a href="https://github.com/VictorHugoDevs">
