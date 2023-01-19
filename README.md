@@ -1,7 +1,8 @@
-Olá! Eu sou Victor Hugo, contador e estudante de programação.
+Olá! Eu sou Victor Hugo, tenho 26 anos, natural de Uberlândia, formado em contabilidade e estudante de programação.
 
-- 💰 Atualmente estou trabalhando como auxiliar fiscal na FGF Contadores.
-- 📖 Estudando front-end através da UDEMY pelo curso "Desenvolvimento Web Completo 2022 - 20 Cursos + 20 Projetos" e fazendo Engenharia de Software na UNINTER.
+- 💰 Atualmente estou desempregado e em busca da minha primeira oportunidade na área. Na caça de um estágio.
+- 📖 Estudando front-end através dos cursos da ORIGAMID e estou no 3º período Engenharia de Software na UNINTER.
+- 🤝 Perfil no Linkedin: https://www.linkedin.com/in/victor-hhugo-silva/
 
 <div align="center">
   <a href="https://github.com/VictorHugoDevs">
