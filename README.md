@@ -1,7 +1,7 @@
 Olá! Eu sou Victor Hugo, tenho 26 anos, natural de Uberlândia, formado em contabilidade e estudante de programação.
 
 - 💰 Atualmente estou trabalhando na prefeitura de Uberlândia e em busca da minha primeira oportunidade na área.
-- 📖 4º período Engenharia de Software na UNINTER, Pós Graduando em Big Data e Ciências Contábeis no Grupo Prominas e estudante de front-end através dos cursos da ORIGAMID.
+- 📖 1º período Sistemas para Internet na IFTM, Pós Graduado em Big Data e Ciências de Dados no Grupo Prominas e estudante de front-end através dos cursos da ORIGAMID.
 - 🤝 Perfil no Linkedin: https://www.linkedin.com/in/victor-hhugo-silva/
 
   <div>
