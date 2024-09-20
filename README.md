@@ -1,4 +1,3 @@
-
 # Victor Hugo Silva
 
 Olá! tenho 28 anos, natural de Uberlândia, formado em contabilidade e estudante de sistemas para Internet na IFTM Uberlândia.
